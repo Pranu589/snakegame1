@@ -1,3 +1,3 @@
 A Snake game using python
-![Project Screenshot](image/images1.png)
-![Project Screenshot](image/images2.png)
+![Project Screenshot](image/image1.png)
+![Project Screenshot](image/image2.png)
